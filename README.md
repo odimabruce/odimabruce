@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bruce O.
+# 👋 Hi, I’m Bruce Odima
 
 ## 🚀 About Me
 I’m a **Frontend & Full-Stack Developer, Software Engineer, and WordPress Designer** with a passion for building **beautiful, reliable, and high-performance web applications**. I love turning ideas into working products that are fast, responsive, and user-friendly.
