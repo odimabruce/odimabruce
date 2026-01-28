@@ -71,9 +71,6 @@ Explore production-grade components, performance experiments, and innovative UI 
 
 **Unlock the code below** — my pinned repositories showcase real frontend engineering: polished components, performant apps, and innovative UI patterns. Start exploring.
 
-<br/><br/>
-
-<img src="https://github.com/bruceodima/bruceodima/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 <br/><br/>
 
