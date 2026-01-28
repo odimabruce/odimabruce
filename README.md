@@ -1,57 +1,84 @@
-# 👋 Hi, I’m Bruce Odima
+<div style="text-align: center;">
 
-## 🚀 About Me
-I’m a **Frontend & Full-Stack Developer, Software Engineer, and WordPress Designer** with a passion for building **beautiful, reliable, and high-performance web applications**. I love turning ideas into working products that are fast, responsive, and user-friendly.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bruce%20Odima&fontSize=68&fontAlignY=58&animation=twinkling&fontColor=fff" />
 
-I enjoy:
-- Creating **scalable web applications** with React, Next.js, and modern frameworks  
-- Designing and customizing **WordPress websites** for clients and businesses  
-- Writing **clean, maintainable code** and implementing best practices in software engineering  
-- Exploring **new technologies** like TypeScript, GraphQL, Redis, and modern testing tools  
-- Building tools that improve developer productivity and user experience  
+<h3>Software Engineer • Frontend Architect & Performance Specialist</h3>
 
-💡 Philosophy: *Focus on quality, stay curious, and make software that users love.*
+<p><b>React • Next.js • Vue • Angular • Nuxt.js • TypeScript • Modern Web Excellence</b></p>
 
----
+<br/>
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/bruceodima">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bruceodima@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 📊 GitHub Stats
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=odimabruce&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odimabruce&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=odimabruce&theme=radical&border_radius=5)
+<!-- Visitor & Trophies -->
+<img src="https://komarev.com/ghpvc/?username=bruceodima&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<img src="https://github-profile-trophy.vercel.app/?username=bruceodima&theme=tokyonight&no-frame=true&row=1&column=7" />
 
----
+</div>
 
-## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-psi-eight-39.vercel.app/)
-[![Documentation Site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://documentation-blog.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruceodima@gmail.com)
+<br/>
 
----
+### 🚀 Welcome to My Frontend Engineering Hub
 
-## 🎯 Personal Goals
-- Master **frontend and full-stack technologies** including Next.js, TypeScript, and GraphQL  
-- Build **high-quality WordPress sites** with modern UX/UI principles  
-- Strengthen **software engineering practices** and testing expertise (Playwright, Jest, Visual Regression)  
-- Create **impactful, user-friendly applications** and open-source tools  
-- Advance towards becoming a **tech leader and innovative software architect**  
+This is my space for crafting high-performance, scalable, and elegant frontend applications. I specialize in modern JavaScript frameworks, building pixel-perfect UIs that deliver exceptional user experiences at any scale.
 
----
+My work focuses on:
+- Designing robust, maintainable frontend architectures with React, Next.js, Vue, Angular, and Nuxt.js
+- Optimizing for speed, accessibility, and Core Web Vitals
+- Implementing advanced state management, component libraries, and animation systems
+- Pushing boundaries with TypeScript, modern tooling, and clean code principles
 
-⭐️ Check out my work and projects on [odimabruce](https://github.com/odimabruce)
+Explore production-grade components, performance experiments, and innovative UI patterns. Fork, star, or contribute—curiosity is always welcome.
+
+<br/>
+
+### 🛠️ Frontend Arsenal
+
+| Domain                        | Key Technologies & Focus Areas |
+|-------------------------------|--------------------------------|
+| **Core Frameworks**           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js"/> Next.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" alt="Angular"/> Angular • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" alt="Vue"/> Vue • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="36" alt="Nuxt"/> Nuxt.js |
+| **Language & Tooling**        | TypeScript • Vite • Webpack • ESLint • Prettier • Storybook |
+| **State & Data Management**   | Redux • Zustand • TanStack Query • Pinia • RxJS • GraphQL • Apollo Client |
+| **Styling & UI**              | Tailwind CSS • Shadcn/ui • Radix UI • Framer Motion • CSS Modules • Sass |
+| **Testing & Performance**     | Jest • React Testing Library • Cypress • Playwright • Lighthouse • Web Vitals Optimization |
+
+<br/>
+
+### 📊 Activity Overview
+
+<div style="text-align: center;">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bruceodima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruceodima&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=7200" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=bruceodima&theme=tokyonight&hide_border=true&fire=ff6b6b&ring=58a6ff&currStreakLabel=58a6ff" alt="Contribution Streak" />
+
+</div>
+
+<br/>
+
+<div style="text-align: center;">
+
+**Unlock the code below** — my pinned repositories showcase real frontend engineering: polished components, performant apps, and innovative UI patterns. Start exploring.
+
+<br/><br/>
+
+<img src="https://github.com/bruceodima/bruceodima/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+<br/><br/>
+
+<div style="text-align: center;">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%8C%9F&fontSize=32&animation=fadeIn&fontColor=fff" alt="Footer Banner" />
+
+</div>
