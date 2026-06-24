@@ -113,16 +113,16 @@ I care about clean design, performance, SEO, resource optimization, secure patte
 
 ## Featured Projects
 
-| Project | Problem Solved | Engineering Focus |
-|---|---|---|
-| **API Workflow Builder / Visual Testing Tool** | Makes API workflows easier to design, test, inspect, and understand visually. | Drag-and-drop UI, node workflows, API orchestration, payload inspection, data transformation |
-| **Personal Timetabling & Schedule Sharing System** | Helps users manage study time, personal schedules, shared availability, and calendar exports. | Calendar UI, time-blocking logic, `.ics` export, analytics, schedule sharing |
-| **Crochet & Knitted Fashion Marketplace** | Connects sellers of crocheted and knitted clothing/accessories with buyers in a focused marketplace. | Seller dashboard, product catalog, checkout flow, M-Pesa/card payments via Flutterwave, order management |
-| **Website Performance Testing Platform** | Helps users understand page speed, accessibility, layout stability, and SEO-related performance issues. | Core Web Vitals, dashboards, reports, screenshots, multi-page comparison |
-| **Kanban Task Management Platform** | Helps users organize work visually using boards, columns, cards, and workflow stages. | Drag-and-drop tasks, state sync, board logic, task workflow modeling |
-| **Campus Lite** | Gives students a platform for learning communities, resource sharing, educational posts, and groups. | Feed UI, content systems, social interactions, community workflows |
-| **Documentation Platform** | Makes technical content easier to read, navigate, organize, and maintain. | Sidebar navigation, content structure, readable layouts, SEO-friendly pages |
-| **Online Library System** | Digitizes book tracking, borrowing records, availability, search, and return workflows. | CRUD logic, relational data, search/filtering, admin-style UI |
+| Project | Problem Solved | Engineering Focus | Link |
+|---|---|---|---|
+| **API Workflow Builder / Visual Testing Tool** | Makes API workflows easier to design, test, inspect, and understand visually. | Drag-and-drop UI, node workflows, API orchestration, payload inspection, data transformation |  |
+| **Personal Timetabling & Schedule Sharing System** | Helps users manage study time, personal schedules, shared availability, and calendar exports. | Calendar UI, time-blocking logic, `.ics` export, analytics, schedule sharing |  |
+| **Crochet & Knitted Fashion Marketplace** | Connects sellers of crocheted and knitted clothing/accessories with buyers in a focused marketplace. | Seller dashboard, product catalog, checkout flow, M-Pesa/card payments via Flutterwave, order management |  |
+| **Website Performance Testing Platform** | Helps users understand page speed, accessibility, layout stability, and SEO-related performance issues. | Core Web Vitals, dashboards, reports, screenshots, multi-page comparison |  |
+| **Kanban Task Management Platform** | Helps users organize work visually using boards, columns, cards, and workflow stages. | Drag-and-drop tasks, state sync, board logic, task workflow modeling |  |
+| **Campus Lite** | Gives students a platform for learning communities, resource sharing, educational posts, and groups. | Feed UI, content systems, social interactions, community workflows |  |
+| **Documentation Platform** | Makes technical content easier to read, navigate, organize, and maintain. | Sidebar navigation, content structure, readable layouts, SEO-friendly pages | [View Docs](https://bruceodima-mystory.vercel.app/) |
+| **Online Library System** | Digitizes book tracking, borrowing records, availability, search, and return workflows. | CRUD logic, relational data, search/filtering, admin-style UI |  |
 
 ---
 
@@ -174,6 +174,7 @@ I care about clean design, performance, SEO, resource optimization, secure patte
 4. **Website Performance Testing Platform**
 5. **Kanban Task Management Platform**
 6. **Campus Lite**
+7. **Documentation Platform** — https://bruceodima-mystory.vercel.app/
 
 ---
 
