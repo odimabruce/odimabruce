@@ -170,7 +170,7 @@ I care about clean design, performance, SEO, resource optimization, secure patte
 
 1. **API Workflow Builder / Visual Testing Tool**
 2. **Personal Timetabling & Schedule Sharing System**
-3. **Crochet & Knitted Fashion Marketplace**
+3. **Crochet & Knitted Fashion Marketplace** — https://loomira.vercel.app/
 4. **Website Performance Testing Platform**
 5. **Kanban Task Management Platform**
 6. **Campus Lite**
