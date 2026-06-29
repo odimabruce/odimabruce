@@ -117,7 +117,7 @@ I care about clean design, performance, SEO, resource optimization, secure patte
 |---|---|---|---|
 | **API Workflow Builder / Visual Testing Tool** | Makes API workflows easier to design, test, inspect, and understand visually. | Drag-and-drop UI, node workflows, API orchestration, payload inspection, data transformation |  |
 | **Personal Timetabling & Schedule Sharing System** | Helps users manage study time, personal schedules, shared availability, and calendar exports. | Calendar UI, time-blocking logic, `.ics` export, analytics, schedule sharing |  |
-| **Crochet & Knitted Fashion Marketplace** | Connects sellers of crocheted and knitted clothing/accessories with buyers in a focused marketplace. | Seller dashboard, product catalog, checkout flow, M-Pesa/card payments via Flutterwave, order management |  |
+| **Crochet & Knitted Fashion Marketplace** | Connects sellers of crocheted and knitted clothing/accessories with buyers in a focused marketplace. | Seller dashboard, product catalog, checkout flow, M-Pesa/card payments via Flutterwave, order management | [View Docs](https://loomira.vercel.app/) |
 | **Website Performance Testing Platform** | Helps users understand page speed, accessibility, layout stability, and SEO-related performance issues. | Core Web Vitals, dashboards, reports, screenshots, multi-page comparison |  |
 | **Kanban Task Management Platform** | Helps users organize work visually using boards, columns, cards, and workflow stages. | Drag-and-drop tasks, state sync, board logic, task workflow modeling |  |
 | **Campus Lite** | Gives students a platform for learning communities, resource sharing, educational posts, and groups. | Feed UI, content systems, social interactions, community workflows |  |
